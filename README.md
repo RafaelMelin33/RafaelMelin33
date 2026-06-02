@@ -49,5 +49,6 @@ O projeto foi desenvolvido em Python com Flask, usando Firebird SQL como banco d
 Resumo curto:
 Sistema de gestão financeira para pequenas empresas, com controle de receitas, despesas, saldo, taxas, usuários, dashboard e simulação de crédito.
 
-### Roll Game
+<a href="http://entraaqui.com.br/rafa/jogo" target="_blank">Roll Game</a>
+### [Roll Game](http://entraaqui.com.br/rafa/jogo)
 Jogo incremental desenvolvido em JavaScript.
