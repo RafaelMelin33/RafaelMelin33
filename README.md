@@ -24,12 +24,39 @@ I'm a Full Stack Developer passionate about building web solutions using React a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebird/firebird-original.svg" width="48" height="48" alt="Firebird SQL" />
 </p>
 
-### Tools### Tools
+### Tools
 <p>
   <img src="https://skillicons.dev/icons?i=github,postman,figma,vscode,pycharm,webstorm&theme=dark" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain.svg" width="48" height="48" alt="Trello" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="48" height="48" alt="DBeaver" />
 </p>
+
+## 🛠️ Tech Stack
+
+### Frontend
+![HTML](https://img.shields.io/badge/-HTML-292D3E?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-292D3E?style=flat&logo=css3&logoColor=1572B6)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-292D3E?style=flat&logo=bootstrap)
+![JavaScript](https://img.shields.io/badge/-JavaScript-292D3E?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-292D3E?style=flat&logo=react)
+
+### Backend
+![Python](https://img.shields.io/badge/-Python-292D3E?style=flat&logo=python&logoColor=yellow)
+![Flask](https://img.shields.io/badge/-Flask-292D3E?style=flat&logo=flask&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-292D3E?style=flat&logo=php)
+
+### Database
+![Firebird SQL](https://img.shields.io/badge/-Firebird_SQL-292D3E?style=flat&logo=firebird&logoColor=orange)
+
+### Tools
+![GitHub](https://img.shields.io/badge/-GitHub-292D3E?style=flat&logo=github)
+![Postman](https://img.shields.io/badge/-Postman-292D3E?style=flat&logo=postman)
+![DBeaver](https://img.shields.io/badge/-DBeaver-292D3E?style=flat&logo=dbeaver)
+![Figma](https://img.shields.io/badge/-Figma-292D3E?style=flat&logo=figma)
+![Trello](https://img.shields.io/badge/-Trello-292D3E?style=flat&logo=trello)
+![VS Code](https://img.shields.io/badge/-VS_Code-292D3E?style=flat&logo=visualstudiocode&logoColor=007ACC)
+![PyCharm](https://img.shields.io/badge/-PyCharm-292D3E?style=flat&logo=pycharm)
+![WebStorm](https://img.shields.io/badge/-WebStorm-292D3E?style=flat&logo=webstorm)
 
 ---
 
