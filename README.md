@@ -1,16 +1,43 @@
-## Hi there 👋
+# Olá, eu sou Rafael 👋
 
-<!--
-**RafaelMelin33/RafaelMelin33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Full Stack apaixonado por criar soluções web utilizando React e Python.
 
-Here are some ideas to get you started:
+🎓 Técnico em Desenvolvimento de Sistemas (SENAI)
+🎓 Ensino Médio (conclusão em 2026)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+
+Frontend:
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+- React
+
+Backend:
+- Python
+- Flask
+- PHP
+
+Banco de Dados:
+- Firebird SQL
+
+Ferramentas:
+- GitHub
+- Postman
+- DBeaver
+- Figma
+- Trello
+- VS Code
+- PyCharm
+
+## Projetos em Destaque
+
+### Conectando e Doando
+Sistema para aproximar ONGs e doadores com integração PIX, relatórios e dashboards.
+
+### Auro
+Sistema de gestão financeira para pequenas empresas.
+
+### Roll Game
+Jogo incremental desenvolvido em JavaScript.
