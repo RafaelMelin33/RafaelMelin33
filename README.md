@@ -1,3 +1,75 @@
+# Hi, I'm Rafael 👋
+
+I'm a Full Stack Developer passionate about building web solutions using React and Python.
+
+🎓 Systems Development Technician — SENAI  
+🎓 High School — expected graduation in 2026  
+
+---
+
+## 🚀 Technologies
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react&theme=dark" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=py,flask,php&theme=dark" />
+</p>
+
+### Database
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebird/firebird-original.svg" width="48" height="48" alt="Firebird SQL" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,pycharm&theme=dark" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain.svg" width="48" height="48" alt="Trello" />
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+### [Conectando e Doando](https://github.com/diogolopesnunes/conectando-e-doando)
+
+A full stack web platform designed to connect NGOs and donors, making it easier to promote social causes and receive donations. The system includes user registration, authentication, profile management, different access levels for donors, NGOs and administrators, NGO approval, PIX integration and QR Code generation for payments.
+
+The application was built with a React/Vite frontend and a Python Flask backend, using Firebird SQL as the database. It also includes reports and dashboards to help users monitor donations and platform activity.
+
+**Tech Stack:** React, Vite, Python, Flask, Firebird SQL, Google Charts, SweetAlert2.
+
+**Short description:**  
+Full stack platform that connects NGOs and donors, with authentication, profile management, PIX payments, QR Code generation, reports and dashboards.
+
+---
+
+### [Auro](https://github.com/RafaelMelin33/Auro)
+
+A financial management and credit simulation system developed for small businesses. The application allows users to register income and expenses, track financial transactions, manage balances, users and interest rates, as well as analyze monthly and yearly financial data through dashboards and charts.
+
+The project was developed with Python and Flask, using Firebird SQL as the database. It includes authentication, user and administrator roles, access control and financial charts generated with Pygal.
+
+**Tech Stack:** Python, Flask, Firebird SQL, HTML, CSS, JavaScript, Pygal.
+
+**Short description:**  
+Financial management system for small businesses, with income and expense control, balance tracking, dashboards, user management and credit simulation.
+
+---
+
+### [Roll Game](http://entraaqui.com.br/rafa/jogo)
+
+An incremental game developed with JavaScript, focused on simple interactions, progressive mechanics and browser-based gameplay.
+
+**Tech Stack:** HTML, CSS, JavaScript.
+
+**Short description:**  
+Incremental browser game developed in JavaScript.
+
+
 # Olá, eu sou Rafael 👋
 
 Desenvolvedor Full Stack apaixonado por criar soluções web utilizando React e Python.
@@ -49,6 +121,5 @@ O projeto foi desenvolvido em Python com Flask, usando Firebird SQL como banco d
 Resumo curto:
 Sistema de gestão financeira para pequenas empresas, com controle de receitas, despesas, saldo, taxas, usuários, dashboard e simulação de crédito.
 
-<a href="http://entraaqui.com.br/rafa/jogo" target="blank">Roll Game</a>
 ### [Roll Game](http://entraaqui.com.br/rafa/jogo)
 Jogo incremental desenvolvido em JavaScript.
