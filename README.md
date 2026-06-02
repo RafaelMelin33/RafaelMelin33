@@ -46,13 +46,6 @@ I'm a Full Stack Developer passionate about building web solutions using React a
 ![PHP](https://img.shields.io/badge/-PHP-292D3E?style=flat&logo=php&logoColor=777BB4)
 
 ### Database
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebird/firebird-original.svg" width="28" height="28" alt="Firebird SQL" />
-  <img src="https://img.shields.io/badge/-Firebird_SQL-292D3E?style=flat" alt="Firebird SQL" />
-</p>
-
-### Database
 ![Firebird SQL](https://img.shields.io/badge/-Firebird_SQL-292D3E?style=flat&logo=firebird&logoColor=orange)
 
 ### Tools
