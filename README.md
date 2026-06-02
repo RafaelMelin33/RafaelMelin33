@@ -24,10 +24,11 @@ I'm a Full Stack Developer passionate about building web solutions using React a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebird/firebird-original.svg" width="48" height="48" alt="Firebird SQL" />
 </p>
 
-### Tools
+### Tools### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,pycharm&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=github,postman,figma,vscode,pycharm,webstorm&theme=dark" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain.svg" width="48" height="48" alt="Trello" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="48" height="48" alt="DBeaver" />
 </p>
 
 ---
