@@ -48,7 +48,7 @@ I'm a Full Stack Developer passionate about building web solutions using React a
 ![PHP](https://img.shields.io/badge/-PHP-292D3E?style=flat&logo=php&logoColor=777BB4)
 
 ### Database
-![Firebird SQL](https://img.shields.io/badge/-Firebird_SQL-292D3E?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0YyNjMyMiIgZD0iTTEzLjYgMi4yYy40IDMuMS0xLjcgNC42LTMuNCA2LjUtMS42IDEuOC0yLjYgMy41LTEuOCA2IC43LTEuOCAxLjktMi45IDMuNC00IC4yIDIuNCAyLjMgMy41IDIuMyA1LjggMCAxLjYtMSAyLjktMi41IDMuNCAzLjYtLjIgNi40LTMgNi40LTYuNyAwLTMuOC0zLTUuNS00LjQtMTF6Ii8%2BPHBhdGggZmlsbD0iI0ZEQjgxMyIgZD0iTTEwLjcgMjAuMWMtMS45LS43LTMuMy0yLjUtMy4zLTQuNyAwLTIuOCAxLjktNC45IDQuMS03LjEuMyAyLjEgMi40IDMuNiAyLjQgNS45IDAgMi4xLTEuMyA0LjctMy4yIDUuOXoiLz48L3N2Zz4%3D)
+![Firebird SQL](https://img.shields.io/badge/-Firebird_SQL-292D3E?style=flat&logo=firebird&logoColor=orange)
 
 ### Tools
 ![GitHub](https://img.shields.io/badge/-GitHub-292D3E?style=flat&logo=github&logoColor=white)
@@ -59,7 +59,6 @@ I'm a Full Stack Developer passionate about building web solutions using React a
 ![VS Code](https://img.shields.io/badge/-VS_Code-292D3E?style=flat&logo=visualstudiocode&logoColor=007ACC)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-292D3E?style=flat&logo=pycharm&logoColor=21D789)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-292D3E?style=flat&logo=webstorm&logoColor=00CDD7)
-
 ---
 
 ## 🌟 Featured Projects
