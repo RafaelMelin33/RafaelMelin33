@@ -115,31 +115,32 @@ Desenvolvedor Full Stack apaixonado por criar soluções web utilizando React e 
 🎓 Técnico em Desenvolvimento de Sistemas (SENAI)
 🎓 Ensino Médio (conclusão em 2026)
 
-## Tecnologias
+## 🛠️ Tecnologias
 
-Frontend:
-- HTML
-- CSS
-- Bootstrap
-- JavaScript
-- React
+### Frontend
+![HTML](https://img.shields.io/badge/-HTML-292D3E?style=flat&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/-CSS-292D3E?style=flat&logo=css&logoColor=663399)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-292D3E?style=flat&logo=bootstrap&logoColor=7952B3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-292D3E?style=flat&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/-React-292D3E?style=flat&logo=react&logoColor=61DAFB)
 
-Backend:
-- Python
-- Flask
-- PHP
+### Backend
+![Python](https://img.shields.io/badge/-Python-292D3E?style=flat&logo=python&logoColor=3776AB)
+![Flask](https://img.shields.io/badge/-Flask-292D3E?style=flat&logo=flask&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-292D3E?style=flat&logo=php&logoColor=777BB4)
 
-Banco de Dados:
-- Firebird SQL
+### Banco de dado
+![Firebird SQL](https://img.shields.io/badge/-Firebird_SQL-292D3E?style=flat&logo=firebird&logoColor=orange)
 
-Ferramentas:
-- GitHub
-- Postman
-- DBeaver
-- Figma
-- Trello
-- VS Code
-- PyCharm
+### Ferramentas
+![GitHub](https://img.shields.io/badge/-GitHub-292D3E?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-292D3E?style=flat&logo=postman&logoColor=FF6C37)
+![DBeaver](https://img.shields.io/badge/-DBeaver-292D3E?style=flat&logo=dbeaver&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-292D3E?style=flat&logo=figma&logoColor=F24E1E)
+![Trello](https://img.shields.io/badge/-Trello-292D3E?style=flat&logo=trello&logoColor=0052CC)
+![VS Code](https://img.shields.io/badge/-VS_Code-292D3E?style=flat&logo=visualstudiocode&logoColor=007ACC)
+![PyCharm](https://img.shields.io/badge/-PyCharm-292D3E?style=flat&logo=pycharm&logoColor=21D789)
+![WebStorm](https://img.shields.io/badge/-WebStorm-292D3E?style=flat&logo=webstorm&logoColor=00CDD7)
 
 ## Projetos em Destaque
 
