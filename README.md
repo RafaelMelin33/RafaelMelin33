@@ -6,10 +6,10 @@ I'm a Full Stack Developer passionate about building web solutions using React a
 🎓 High School — expected graduation in 2026  
 
 ---
-
+<!--
 ## 🚀 Technologies
 
-<!--### Frontend
+### Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react&theme=dark" />
 </p>
